@@ -1,0 +1,5 @@
+weather API = ( https://api.openweathermap.org/data/2.5/weather?id=524901&appid=1dd08bfefe5ccc0d5473adf9acb45ec4&lang=en )
+
+my Web API Keys = [
+    (weather APIkey : 1dd08bfefe5ccc0d5473adf9acb45ec4)
+]
